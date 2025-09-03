@@ -1,0 +1,16 @@
+[
+  { "name": "radioHealthy", "value": "healthy", "label": "Healthy", "color": "#000000" },
+  { "name": "radioCaries", "value": "caries", "label": "Caries", "color": "#FF0000" },
+  { "name": "radioSealant", "value": "sealant", "label": "Sealant", "color": "#00FF00" },
+  { "name": "radioAmalgam", "value": "amalgam", "label": "Amalgam", "color": "#808080" },
+  { "name": "radioComposite", "value": "composite", "label": "Composite", "color": "#0000FF" },
+  { "name": "radioInlay", "value": "inlay", "label": "Inlay", "color": "#008080" },
+  { "name": "radioDentalFracture", "value": "dentalfracture", "label": "Dental Fracture", "color": "#000000" },
+  { "name": "radioDeepGroove", "value": "deepgroove", "label": "Deep Groove", "color": "#FFFF00" },
+  { "name": "radioEndodontics", "value": "endodontics", "label": "Endodontics", "color": "#000000" },
+  { "name": "radioMissingTooth", "value": "missingtooth", "label": "Missing Tooth", "color": "#000000" },
+  { "name": "radioExtractionIndicated", "value": "extractionindicated", "label": "Extraction Indicated", "color": "#000000" },
+  { "name": "radioCrownedTooth", "value": "crownedtooth", "label": "Crowned Tooth", "color": "#000000" },
+  { "name": "radioImplant", "value": "implant", "label": "Implant", "color": "#000000" },
+  { "name": "radioLCNC", "value": "lcnc", "label": "LCNC", "color": "#000000" }
+]
