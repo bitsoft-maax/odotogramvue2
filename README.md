@@ -1,5 +1,6 @@
 # odontogramvue
 
+This is cloned by from https://github.com/elymichael/odontogramvue. 
 Example of how to draw an odontogram using javascript and json file configuration. We want to prepare a Vue component to provide the library in npm.
 
 ![Demo](https://github.com/elymichael/odontogramvue/blob/master/public/img/Demo.png)
